@@ -1,0 +1,3 @@
+[webservers]
+172.31.227.58 ansible_user=nimja ansible_password=toor ansible_ssh_common_args='-o PubkeyAuthentication=no -o PreferredAuthentications=password'
+
